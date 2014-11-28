@@ -1,4 +1,4 @@
 testni_repo
 ===========
 
-testno skladišče
+testno skladiščee
